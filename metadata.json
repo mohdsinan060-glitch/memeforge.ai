@@ -1,0 +1,7 @@
+{
+  "name": "MemeForge AI",
+  "description": "Upload a photo. Let AI find the joke, exaggerate the scene, and forge genuinely hilarious memes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
